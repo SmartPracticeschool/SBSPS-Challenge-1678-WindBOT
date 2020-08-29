@@ -3,9 +3,6 @@
 An LSTM based wind energy output prediction and best time to harvest energy chooser.
 It will be implemented with Node-Red backend and tensorflow
 
-## Video link
-https://drive.google.com/file/d/1RteSeDfWqTvcNk-IeViG_BKggu1xGZIx/view?usp=drivesdk
-
 ## Deplyment link
 App is deployed in IBM cloud
 https://node-red-qdxqz.mybluemix.net/ui/#!/0?socketid=7zjfKzwMCB8_HovsAABW
