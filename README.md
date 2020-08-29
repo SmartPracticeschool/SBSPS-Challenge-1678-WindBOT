@@ -5,4 +5,5 @@ It will be implemented with Node-Red backend and tensorflow
 
 ## Deplyment link
 App was deployed in IBM cloud
-https://node-red-qdxqz.mybluemix.net/ui/#!/0?socketid=7zjfKzwMCB8_HovsAABW( Expired after challenge was over)
+https://node-red-qdxqz.mybluemix.net/ui/#!/0?socketid=7zjfKzwMCB8_HovsAABW
+### ( Expired after challenge was over)
