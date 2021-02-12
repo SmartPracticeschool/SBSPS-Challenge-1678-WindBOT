@@ -54,9 +54,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://biograph.dx.am/"><img src="https://avatars0.githubusercontent.com/prskid1000" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/Template/commits?author=prskid1000" title="Code">💻</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="http://biograph.dx.am/"><img src="https://avatars0.githubusercontent.com/prskid1000" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/Template/commits?author=prskid1000" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/A1bhinavSingh/"><img src="https://avatars0.githubusercontent.com/A1bhinavSingh" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/Template/commits?author=prskid1000" title="Code">💻</a></td>
   </tr>
-/table>
+<table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
