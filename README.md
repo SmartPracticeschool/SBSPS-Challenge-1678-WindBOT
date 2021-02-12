@@ -12,7 +12,7 @@ https://node-red-qdxqz.mybluemix.net/ui/#!/0?socketid=7zjfKzwMCB8_HovsAABW
 ## Status
 Repository status([badge](https://img.shields.io/badge/)):
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)
+![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
@@ -53,7 +53,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://biograph.dx.am/"><img src="https://avatars0.githubusercontent.com/prskid1000" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/Template/commits?author=prskid1000" title="Code">💻</a></td>
   </tr>
-</table>
+  <tr>
+    <td align="center"><a href="http://biograph.dx.am/"><img src="https://avatars0.githubusercontent.com/prskid1000" width="100px;" alt=""/><br /><sub><b>prskid1000</b></sub></a><br /><a href="https://github.com/prskid1000/Template/commits?author=prskid1000" title="Code">💻</a></td>
+  </tr>
+/table>
 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
