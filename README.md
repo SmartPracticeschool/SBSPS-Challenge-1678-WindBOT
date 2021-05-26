@@ -16,8 +16,8 @@ Repository status([badge](https://img.shields.io/badge/)):
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-![1](https://github.com/SmartPracticeschool/SBSPS-Challenge-1678-WindBOT/blob/master/681_Prithwiraj%20Samanta_Certificate_HC.pdf)
-![1](https://github.com/SmartPracticeschool/SBSPS-Challenge-1678-WindBOT/blob/master/Call_For_Code_2020%20Certificate%20-%20TheSmartBridge-141.pdf)
+![1](https://github.com/SmartPracticeschool/SBSPS-Challenge-1678-WindBOT/blob/master/cert_1.png?raw=true)
+![1](https://github.com/SmartPracticeschool/SBSPS-Challenge-1678-WindBOT/blob/master/cert_2.png?raw=true)
 
 ## Getting started
 
