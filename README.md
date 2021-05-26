@@ -16,8 +16,8 @@ Repository status([badge](https://img.shields.io/badge/)):
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-![1](https://github.com/SmartPracticeschool/SBSPS-Challenge-1678-WindBOT/blob/master/cert_1.png?raw=true)
-![1](https://github.com/SmartPracticeschool/SBSPS-Challenge-1678-WindBOT/blob/master/cert_2.png?raw=true)
+![1](https://github.com/SmartPracticeschool/SBSPS-Challenge-1678-WindBOT/blob/master/cert_1.png?raw=true)<br>
+![2](https://github.com/SmartPracticeschool/SBSPS-Challenge-1678-WindBOT/blob/master/cert_2.png?raw=true)
 
 ## Getting started
 
